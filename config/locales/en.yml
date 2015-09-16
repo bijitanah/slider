@@ -17,8 +17,8 @@ en:
       spree/slide: "Slide"
 
   spree_slider:
-    config_name: "Spree Slider"
-    config_description: "Manage Spree Slider contents"
+    config_name: "Slider"
+    config_description: "Manage Slider contents"
     title: "Slides"
     new_slide: "New Slide"
     editing_slide: "Editing Slide"
@@ -28,8 +28,8 @@ en:
     image_tip: "Default first product image"
 
   spree_slider_locations:
-    config_name: "Spree Slider Locations"
-    config_description: "Manage Spree Slider Locations"
+    config_name: "Slider Locations"
+    config_description: "Manage Slider Locations"
     title: "Slider Locations"
     new_location: "New Location"
     editing_location: "Editing Location"
