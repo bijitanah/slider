@@ -1,0 +1,15 @@
+.carousel {
+	border-color: #ddd;
+    border-radius: 7px;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.1);
+}
+
+.carousel-control {
+    border-radius: 6px;
+}
+
+.carousel-inner > .item > a > img {
+    max-height: 230px;
+}
