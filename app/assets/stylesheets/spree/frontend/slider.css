@@ -4,12 +4,21 @@
     border-style: solid;
     border-width: 1px;
     box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.1);
+    height: 500px;
 }
 
 .carousel-control {
     border-radius: 6px;
+    height: 500px;
 }
 
 .carousel-inner > .item > a > img {
-    max-height: 230px;
+    height: 500px;
+    width: 2000px;
+    max-width: 100%px;
+
+}
+
+body{
+	background-color: #fff;
 }
